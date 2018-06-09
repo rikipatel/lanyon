@@ -2,8 +2,6 @@
 markdown:         redcarpet
 pygments:         true
 
-# Permalinks
-permalink:        pretty
 
 # Setup
 title:            Lanyon
